@@ -60,5 +60,14 @@ class HelloWorldModelTest {
         assertTrue(StringUtils.contains(msg, resource.getResourceType()));
         assertTrue(StringUtils.contains(msg, page.getPath()));
     }
+    ///this is test or example 
+    // @Test
+    // void getTitle() throws Exception {
+    //     // some very basic junit tests
+    //     String expected = "Test Title";
+    //     assertNotNull(linkComponent);
+    //     assertEquals(except, linkCOmponentModal.getTitle());
+    //     ;
+    // }
 
 }
